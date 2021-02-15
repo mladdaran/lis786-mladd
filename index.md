@@ -23,22 +23,23 @@ Topics that will be covered:
 - What is UX?
 [usability.gov](https://www.usability.gov/what-and-why/user-experience.html)
 - What is UX design?
-[UX Design Guide for 2021](https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
-- [The UX Design Process]
-- (https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+  - [UX Design Guide for 2021](https://careerfoundry.com/en/blog/ux-design/what-is-user-experience-ux-design-everything-you-need-to-know-to-get-started/)
+- [What is UX Design Video Guide](https://www.youtube.com/watch?v=v6n1i0qojws)
+- The 6 steps in the [UX design process](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
+- Learn the differences between: [UX Design vs. UI Design](https://www.youtube.com/watch?v=Vnz_JbjxKFQ&t=8s)
+
 
 ## **Starting a UX Career Path**
 
 Topics that will be covered:
 - How to get started in UX?
 [Usability](https://www.usability.gov/what-and-why/user-experience.html)
-- []()
-- []()
-- []()
-- []()
+- Checkout LinkedIn Learning and take courses or pathways to better understand UX and/or enhance your UX skills. [LinkedIn Learning](https://www.linkedin.com/learning/search?categoryIds=ALL&contentBy=ALL&continuingEducationUnits=ALL&difficultyLevel=ALL&durations=ALL&entityType=ALL&keywords=ux%20&learningCategoryIds=ALL&purchaseModel=ALL&software=ALL&sortBy=RELEVANCE&spellcheck=true&u=76361090)
+- How to make an awesome [UX Design Portfolio](https://careerfoundry.com/en/blog/ux-design/ux-design-portfolio-tips/)
+  - Platforms to create your portfolio on
+    - [Wix](https://www.wix.com/)
+    - [Webflow](https://webflow.com/dashboard?r=1)
+    - [Squarespace](https://www.squarespace.com/)
+- **NETWORKING** is really important! Grow your network using [LinkedIn](https://www.linkedin.com/feed/)
 
-
-
-
-Click on the link to take online LinkedIn UX courses.
-Source: [link to LinkedIn Learning](https://www.linkedin.com/learning/)
+### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
