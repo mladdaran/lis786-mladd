@@ -1,9 +1,8 @@
 ---
-title: Homepage
+title: Welcome to My UX Journey
 layout: default
 ---
 ## **Hello there, I'm Monica!**
-# **<center>Welcome to my UX Journey!</center>**
 
 *You can find resources on learning about the UX Basics as well as some tips & tricks for starting your career in UX.*
 
@@ -29,7 +28,7 @@ Topics that will be covered:
 - Learn the differences between: [UX Design vs. UI Design](https://www.youtube.com/watch?v=Vnz_JbjxKFQ&t=8s)
 
 
-## **Starting a UX Career Path**
+## **Starting Your UX Journey**
 
 Topics that will be covered:
 - How to get started in UX?
