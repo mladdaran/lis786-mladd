@@ -5,4 +5,6 @@ permalink: /about/
 ---
 **Hello there, I'm Monica!**
 
-# On this page, I will be sharing my college journey with you and how I ended up shifting towards a UX career.
+# Hello there, I'm Monica.
+
+***If you want to learn more about me, you've landed on the right page :).***

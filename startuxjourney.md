@@ -3,7 +3,7 @@ title: Start Your UX Journey
 layout: default
 permalink: /startyouruxjourney/
 ---
-**Hello again!**
+**Want to start your UX journey, you're in the right place.**
 
 # Here are some resources and some steps you can take to start your UX journey.
 
