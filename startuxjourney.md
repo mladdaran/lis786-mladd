@@ -4,7 +4,6 @@ layout: default
 permalink: /startyouruxjourney/
 ---
 **Want to start your UX journey, you're in the right place.**
-
 # Here are some resources and some steps you can take to start your UX journey.
 
 ## **Starting Your UX Journey**

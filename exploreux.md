@@ -3,7 +3,6 @@ title: Explore UX
 layout: default
 permalink: /exploreux/
 ---
-
 # This section will cover the UX basics and I will also share some resources about UX.
 
 ### **UX Basics**
@@ -18,6 +17,6 @@ Topics that will be covered:
 
 ### **UX Resources**
 Here are a list of reliable resources I personally use:
-- Interested in UX, visit General Assembly's website to attend workshops & events that they offer. 
+- Interested in UX, visit General Assembly's website to attend workshops & events that they offer.
 [General Assembly Events](https://generalassemb.ly/education?dateType=any&event=true&free=true&where=online)
 - What is UX design? []()
