@@ -1,5 +1,5 @@
 ---
-title: My UX Journey
+title: The UX Journey
 layout: page
 ---
 ### **You can find resources on learning about the UX basics and resources you can explore and steps you can take to start your UX journey.**

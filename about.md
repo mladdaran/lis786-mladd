@@ -1,5 +1,5 @@
 ---
-title: My UX Journey
+title: The UX Journey
 layout: page
 permalink: /about/
 ---
