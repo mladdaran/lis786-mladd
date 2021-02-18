@@ -1,6 +1,6 @@
 ---
-title: Explore UX
-layout: default
+title: My UX Journey
+layout: page
 permalink: /exploreux/
 ---
 # This section will cover the UX basics and I will also share some resources about UX.

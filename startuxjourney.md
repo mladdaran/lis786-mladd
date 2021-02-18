@@ -1,6 +1,6 @@
 ---
-title: Start Your UX Journey
-layout: default
+title: Your UX Journey
+layout: page
 permalink: /startuxjourney/
 ---
 **Want to start your UX journey, you're in the right place.**

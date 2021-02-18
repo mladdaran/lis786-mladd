@@ -1,6 +1,6 @@
 ---
-title: Welcome to My UX Journey
-layout: default
+title: My UX Journey
+layout: page
 ---
 ### **You can find resources on learning about the UX basics and resources you can explore and steps you can take to start your UX journey.**
 
