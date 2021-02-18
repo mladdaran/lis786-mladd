@@ -1,5 +1,5 @@
 ---
-title: My UX Journey
+title: Your UX Journey
 layout: page
 permalink: /exploreux/
 ---
