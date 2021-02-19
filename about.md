@@ -2,8 +2,10 @@
 title: About Me
 layout: page
 permalink: /about/
-description: If you want to learn more about me, you've landed on the right page :)
+description: LEARN. SHARE. CONNECT.
 ---
+## **If you want to learn more about me, you've landed on the right page :)**
+
 ### **Monica's Timeline**
 - **2004-2014:**  Went to Walt Disney Magnet School
 - **2014-2018:** Went to Steinmetz College Prep.

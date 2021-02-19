@@ -1,7 +1,7 @@
 ---
 title: Welcome to The UX Journey!
 layout: page
-description: Learn. Share. Connect.
+description: LEARN. SHARE. CONNECT.
 ---
 ## **You can find resources on learning about the UX basics and resources you can explore and steps you can take to start your UX journey.**
 

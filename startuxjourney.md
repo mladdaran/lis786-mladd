@@ -2,6 +2,7 @@
 title: Your UX Journey
 layout: page
 permalink: /startuxjourney/
+description: LEARN. SHARE. CONNECT.
 ---
 ## **Want to start your UX journey? You're in the right place!**
 

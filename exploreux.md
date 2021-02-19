@@ -2,6 +2,7 @@
 title: Explore UX
 layout: page
 permalink: /exploreux/
+description: LEARN. SHARE. CONNECT.
 ---
 ## **This section will cover the UX basics and I will also share some resources about UX.**
 
