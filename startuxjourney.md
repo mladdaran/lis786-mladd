@@ -1,13 +1,14 @@
 ---
-title: The UX Journey
+title: Your UX Journey
 layout: page
 permalink: /startuxjourney/
+page description: description of page
+subcategory title: subcategory
 ---
-**Want to start your UX journey, you're in the right place.**
-# Here are some resources and some steps you can take to start your UX journey.
+## Want to start your UX journey? You're in the right place!
 
-## **Starting Your UX Journey**
-### **Some Steps to Start Your UX Journey**
+### **Starting Your UX Journey**
+#### **Some Steps to Start Your UX Journey**
 - Learn more about UX
 - Find institutions that offer UX/HCI programs
 - Are you an autodidact (a self-taught person)? Visit LinkedIn Learning and take courses or pathways to better understand UX and/or enhance your UX skills. [LinkedIn Learning](https://www.linkedin.com/learning/search?categoryIds=ALL&contentBy=ALL&continuingEducationUnits=ALL&difficultyLevel=ALL&durations=ALL&entityType=ALL&keywords=ux%20&learningCategoryIds=ALL&purchaseModel=ALL&software=ALL&sortBy=RELEVANCE&spellcheck=true&u=76361090)

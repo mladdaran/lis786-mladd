@@ -1,7 +1,9 @@
 ---
-title: The UX Journey
+title: Explore UX
 layout: page
 permalink: /exploreux/
+page description: description of page
+subcategory title: subcategory
 ---
 # This section will cover the UX basics and I will also share some resources about UX.
 
