@@ -3,7 +3,7 @@ title: Explore UX
 layout: page
 permalink: /exploreux/
 ---
-# This section will cover the UX basics and I will also share some resources about UX.
+## This section will cover the UX basics and I will also share some resources about UX.
 
 ### **UX Basics**
 Topics that will be covered:
