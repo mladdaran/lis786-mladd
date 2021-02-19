@@ -3,7 +3,7 @@ title: Your UX Journey
 layout: page
 permalink: /startuxjourney/
 ---
-## Want to start your UX journey? You're in the right place!
+## **Want to start your UX journey? You're in the right place!**
 
 ### **Some Steps to Start Your UX Journey**
 - Learn more about UX
