@@ -1,6 +1,7 @@
 ---
 title: Welcome to The UX Journey!
 layout: page
+description: You can find resources on learning about the UX basics and resources you can explore and steps you can take to start your UX journey.
 ---
 ## **You can find resources on learning about the UX basics and resources you can explore and steps you can take to start your UX journey.**
 
