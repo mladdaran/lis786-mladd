@@ -2,8 +2,6 @@
 title: About Me
 layout: page
 permalink: /about/
-page description: description of page 
-subcategory title: subcategory
 ---
 ## Hello there, I'm Monica.
 

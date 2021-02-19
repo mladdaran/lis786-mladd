@@ -2,8 +2,6 @@
 title: Your UX Journey
 layout: page
 permalink: /startuxjourney/
-page description: description of page
-subcategory title: subcategory
 ---
 ## Want to start your UX journey? You're in the right place!
 
