@@ -8,5 +8,5 @@ category: exploreux
 Ways in which you can conduct user research is through surveys, polls, interviews, etc.
 
 Other Resources:
-- https://www.usability.gov/what-and-why/user-research.html
-- https://www.interaction-design.org/literature/topics/user-research  
+- [usability.gov: User Research (What & Why)](https://www.usability.gov/what-and-why/user-research.html)
+- [Interaction Design Foundation: User Research](https://www.interaction-design.org/literature/topics/user-research) 
