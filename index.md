@@ -12,7 +12,7 @@ The purpose of this website is to share my UX journey with you. I discovered the
 Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folders/1KDjBvgNL-90V-HWfQKFecQ_WxXeZktib?usp=sharing)
 - Self Wind App [Video](https://www.youtube.com/watch?v=DKGHDoKX1iw&t=1s)
 - Self Wind App [Prototype](https://projects.invisionapp.com/prototype/ck37tw6d6003qel01e3sxl391/play)
-- Self Wind [Slide Desk](https://drive.google.com/file/d/1ckfrvSx-cHvsaztGnpVGXufCcoqpmLYt/view?usp=sharing)
+- Self Wind [Slide Deck](https://drive.google.com/file/d/1ckfrvSx-cHvsaztGnpVGXufCcoqpmLYt/view?usp=sharing)
 - Self Wind [Design Specification](https://drive.google.com/file/d/1iNyZE5q3RhSJxcDvp8n3dlMNscotHS5S/view?usp=sharing)
 
 ## **About Me**
