@@ -1,2 +1,6 @@
 title: My UX Journey
 theme: jekyll-theme-cayman
+collections:
+  ux_basic_sources:
+    output: true
+    layout: ux_basic_resources
