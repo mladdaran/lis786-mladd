@@ -3,7 +3,7 @@ title: Welcome to The UX Journey!
 layout: page
 description: LEARN. SHARE. CONNECT.
 ---
-## **You can find resources on learning about the UX basics and resources you can explore and steps you can take to start your UX journey.**
+## **An immersive experience in my UX journey.**
 
 The purpose of this website is to share my UX journey with you. I discovered the UX world my sophomore year of college in the fall semester of the 2019-2020 school year. I took a class with professor Donald (Don) Hamerly called INF 130 - Research and Design for Informatics. One can consider this class an intro class to UX. This class started off with learning concepts & methodologies in UX. From choosing a topic and conducting user research (through surveys, interviews, etc.) to producing an mobile app prototype on InVision. My partner (Lourdes Fernandez) & I created an app called Self Wind, where we focus on time management & self care.
 
@@ -23,7 +23,7 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 
 {% for ux_resources in site.ux_resources %}
   <h2>{{ ux_resources.title }}</h2>
-  <p>{{ ux_resources.content | truncate: 200, '...' }}</p>
+  <p>{{ ux_resources.content | strip_html | truncate: 200, '...' }}</p>
   <a href="{{ ux_resources.source }}" target="_blank">Source</a>
   {% endfor %}
 
