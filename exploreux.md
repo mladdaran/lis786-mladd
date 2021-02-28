@@ -20,6 +20,6 @@ Topics that will be covered:
 <p>Browse the topics below:</p>
 {% for ux_resources in site.ux_resources %}
   <h2>{{ ux_resources.title }}</h2>
-  <p>{{ ux_resources.content | strip_html | truncate: 1000, '...' }}</p>
+  <p>{{ ux_resources.content | strip_html | truncate: 900, '...' }}</p>
   <a href="{{ ux_resources.source }}" target="_blank">Source</a>
   {% endfor %}
