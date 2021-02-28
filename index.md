@@ -20,7 +20,6 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 
 ## **Explore UX**
 <p>Browse the topics below:</p>
-
 {% for ux_resources in site.ux_resources %}
   <h2>{{ ux_resources.title }}</h2>
   <p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
