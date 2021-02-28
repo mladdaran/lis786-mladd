@@ -7,11 +7,11 @@ description: LEARN. SHARE. CONNECT.
 ## **If you want to learn more about me, you've landed on the right page :)**
 
 ### **Monica's Timeline**
-- **2004-2014:**  Went to Walt Disney Magnet School
-- **2014-2018:** Went to Steinmetz College Prep.
-- **2018:** Start my journey at Dominican University
+- **2004-2014:**  Went to [Walt Disney Magnet School](https://www.youtube.com/watch?v=7qzqQhKmHCA&t=55s)
+- **2014-2018:** Went to [Steinmetz College Prep](https://www.youtube.com/watch?v=0kfHu9Yb-sU)
+- **2018:** Start my journey at [Dominican University](https://www.youtube.com/watch?v=bVEG-zOKeJU)
 - **2019:**
-  -  Decided & officially declared my major in Informatics
+  - Decided & officially declared my major in Informatics
   - Discovered the UX world
 - **Present:** Currently figuring out what I want to do with my life and defining myself as a UX designer.
 
