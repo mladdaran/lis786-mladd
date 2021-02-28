@@ -15,3 +15,11 @@ Topics that will be covered:
 - [What is UX Design Video Guide](https://www.youtube.com/watch?v=v6n1i0qojws)
 - The 6 steps in the [UX design process](https://www.invisionapp.com/inside-design/6-stages-ux-process/)
 - Learn the differences between: [UX Design vs. UI Design](https://www.youtube.com/watch?v=Vnz_JbjxKFQ&t=8s)
+
+### **The UX Design Process**
+<p>Browse the topics below:</p>
+{% for ux_resources in site.ux_resources %}
+  <h2>{{ ux_resources.title }}</h2>
+  <p>{{ ux_resources.content | strip_html | truncate: 1000, '...' }}</p>
+  <a href="{{ ux_resources.source }}" target="_blank">Source</a>
+  {% endfor %}
