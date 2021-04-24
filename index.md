@@ -3,9 +3,9 @@ title: Welcome to The UX Journey!
 layout: page
 description: LEARN. SHARE. CONNECT.
 ---
-## **An immersive experience in my UX journey.**
+## **Hello there & welcome to my UX journey!**
 
-The purpose of this website is to share my UX journey with you. I discovered the UX world my sophomore year of college in the fall semester of the 2019-2020 school year. I took a class with professor Donald (Don) Hamerly called INF 130 - Research and Design for Informatics. One can consider this class an intro class to UX. This class started off with learning concepts & methodologies in UX. From choosing a topic and conducting user research (through surveys, interviews, etc.) to producing an mobile app prototype on InVision. My partner (Lourdes Fernandez) & I created an app called Self Wind, where we focus on time management & self care.
+The purpose of this website is to share my UX journey with you. I discovered the UX world my sophomore year of college, more specifically in the fall semester of the 2019-2020 school year. I took a class called INF 130 - Research and Design for Informatics. One can consider this class an intro class to UX. This class started off with learning concepts & methodologies in UX to producing an mobile app prototype on InVision. My partner & I created an app called Self Wind. We built this app prototype specifically for college students with focus on time management & self care habits. After taking that class, it has been life changing for me as I would love to pursue a career in UX.
 
 **Checkout the final project my partner & I did for the INF 130 class!**
 
@@ -22,7 +22,7 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 <p>Browse the topics below:</p>
 {% for ux_resources in site.ux_resources %}
   <h2>{{ ux_resources.title }}</h2>
-  <p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+  <p>{{ ux_resources.content | strip_html | truncate: 400, '...' }}</p>
   <a href="{{ ux_resources.source }}" target="_blank">Source</a>
   {% endfor %}
 
