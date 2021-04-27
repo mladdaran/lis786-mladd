@@ -30,7 +30,7 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
       <div class="nav-tabs-wrapper">
         <ul class="nav nav-tabs" data-tabs="tabs">
           <li class="nav-item">
-            <a class="nav-link active" href="#alpha" data-toggle="tab">Sort alphabetically</a>
+            <a class="nav-link active show" href="#alpha" data-toggle="tab">Sort alphabetically</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#category" data-toggle="tab">Sort by category</a>
@@ -40,8 +40,8 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
     </div>
   </div>
   <div class="card-body ">
-    <div class="tab-content text-center">
-      <div class="tab-pane active" id="alpha">
+    <div class="tab-content">
+      <div class="tab-pane active show" id="alpha">
       <h3>UX Design</h3>
       {% for ux_resources in site.ux_resources %}
       {% if ux_resources.category == 'ux_design' %}
