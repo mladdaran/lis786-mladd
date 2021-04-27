@@ -21,8 +21,6 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 ## **Explore UX**
 <p>Browse the topics below:</p>
 
-### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
-
 <div class="card-header card-header-danger">
   <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
   <div class="nav-tabs-navigation">
@@ -75,3 +73,5 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
   </div>
 </div>
 </div>
+
+### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
