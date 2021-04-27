@@ -22,9 +22,18 @@ description: LEARN. SHARE. CONNECT.
 <p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
 <a href="{{ ux_resources.source }}" target="_blank">Source</a>
 {% endif %}
+{% endfor %}
 
 {% for ux_resources in site.ux_resources %}
 {% if ux_resources.category == 'iterating' %}
+<h4>{{ ux_resources.title }}</h4>
+<p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+<a href="{{ ux_resources.source }}" target="_blank">Source</a>
+{% endif %}
+{% endfor %}
+
+{% for ux_resources in site.ux_resources %}
+{% if ux_resources.category == 'ux_design' %}
 <h4>{{ ux_resources.title }}</h4>
 <p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
 <a href="{{ ux_resources.source }}" target="_blank">Source</a>

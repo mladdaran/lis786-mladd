@@ -10,14 +10,5 @@ There are a numerous amount of UX research methods out there such as:
 - Interviews
 - A/B Testing  
 - Usability Testing
-- AND many many more! (Check out the sources below to learn more!)
-
-Top 3 Picks of **UX Research** Resources:
-- [The Complete Beginner’s Guide to UX Research](https://www.uxbooth.com/articles/complete-beginners-guide-to-design-research/)
-- [usability.gov: User Research (What & Why)](https://www.usability.gov/what-and-why/user-research.html)
-- [Interaction Design Foundation: User Research](https://www.interaction-design.org/literature/topics/user-research)
-
-More Resources:
-- [The UX User Research Process](https://www.youtube.com/watch?v=A2DdLAxvBiU)
-- The UX Research Methods Every Designer Should Know from [CareerFoundry](https://www.youtube.com/watch?v=gGZGDnTY454)
-- When to Use Which UX Research Method from [NNgroup](https://www.youtube.com/watch?v=OtUWbsvCujM)
+- AND many many more!
+*Check out the topics down below to learn more!*

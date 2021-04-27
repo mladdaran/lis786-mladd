@@ -16,14 +16,26 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 - Self Wind [Design Specification](https://drive.google.com/file/d/1iNyZE5q3RhSJxcDvp8n3dlMNscotHS5S/view?usp=sharing)
 
 ## **About Me**
-**Hello there, I'm Monica!** I started my college journey at Dominican University in August 2018. Originally, I came to DU unsure of what I wanted to study and pursue as a career. I decided to play my first year safely by taking my gen ed courses to get those requirements out of the way. One day, I met my class/friend, Leslie, who introduced me to the informatics major. My first question to her was "What is Informatics?" She explained it to me as "It's sort of like computer science, but less programming and more focused on problem solving and dealing with people." At that instant, I was very intrigued and she caught my attention. As time went on, I took more informatics classes and eventually declared myself as an informatics major. I took one informatics class called INF 130: Research and Design for Informatics and taking this class has made me discover the UX field. In this class I learned about UX concepts and implementing those concepts into a half semester project where I worked with a partner and built an app prototype solving a real world problem.
+**Hello there, I'm Monica!** I started my college journey at Dominican University in August 2018. Originally, I came to DU unsure of what I wanted to study and pursue as a career. I decided to play my first year safely by taking my general education (gen ed) courses to get those requirements out of the way. One day, I met my class/friend, Leslie, who introduced me to the informatics major. My first question to her was "What is Informatics?" She explained it to me as "It's sort of like computer science, but less programming and more focused on problem solving and dealing with people." At that instant, I was very intrigued and she caught my attention. As time went on, I took more informatics classes and eventually declared myself as an informatics major. I took one informatics class called INF 130: Research and Design for Informatics and taking this class has made me discover the UX field. In this class I learned about UX concepts and implementing those concepts into a half semester project where I worked with a partner and built an app prototype solving a real world problem.
 
 ## **Explore UX**
 <p>Browse the topics below:</p>
+<h3>User Research</h3>
 {% for ux_resources in site.ux_resources %}
-  <h2>{{ ux_resources.title }}</h2>
-  <p>{{ ux_resources.content | strip_html | truncate: 400, '...' }}</p>
-  <a href="{{ ux_resources.source }}" target="_blank">Source</a>
-  {% endfor %}
+{% if ux_resources.category == 'user_research' %}
+<h4>{{ ux_resources.title }}</h4>
+<p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+<a href="{{ ux_resources.source }}" target="_blank">Source</a>
+{% endif %}
+{% endfor %}
+
+<h3>Prototyping</h3>
+{% for ux_resources in site.ux_resources %}
+{% if ux_resources.category == 'prototyping' %}
+<h4>{{ ux_resources.title }}</h4>
+<p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+<a href="{{ ux_resources.source }}" target="_blank">Source</a>
+{% endif %}
+{% endfor %}
 
 ### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
