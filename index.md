@@ -21,31 +21,57 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 ## **Explore UX**
 <p>Browse the topics below:</p>
 
-<h3>UX Design</h3>
-{% for ux_resources in site.ux_resources %}
-{% if ux_resources.category == 'ux_design' %}
-<h4>{{ ux_resources.title }}</h4>
-<p>{{ ux_resources.content | strip_html | truncate: 400, '...' }}</p>
-<a href="{{ ux_resources.source }}" target="_blank">Source</a>
-{% endif %}
-{% endfor %}
-
-<h3>User Research</h3>
-{% for ux_resources in site.ux_resources %}
-{% if ux_resources.category == 'user_research' %}
-<h4>{{ ux_resources.title }}</h4>
-<p>{{ ux_resources.content | strip_html | truncate: 400, '...' }}</p>
-<a href="{{ ux_resources.source }}" target="_blank">Source</a>
-{% endif %}
-{% endfor %}
-
-<h3>Prototyping</h3>
-{% for ux_resources in site.ux_resources %}
-{% if ux_resources.category == 'prototyping' %}
-<h4>{{ ux_resources.title }}</h4>
-<p>{{ ux_resources.content | strip_html | truncate: 400, '...' }}</p>
-<a href="{{ ux_resources.source }}" target="_blank">Source</a>
-{% endif %}
-{% endfor %}
-
 ### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
+
+<div class="card card-nav-tabs card-plain">
+  <div class="card-header card-header-danger">
+    <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
+    <div class="nav-tabs-navigation">
+      <div class="nav-tabs-wrapper">
+        <ul class="nav nav-tabs" data-tabs="tabs">
+          <li class="nav-item">
+            <a class="nav-link active" href="#alpha" data-toggle="tab">Sort alphabetically</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#category" data-toggle="tab">Sort by category</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="card-body ">
+    <div class="tab-content text-center">
+      <div class="tab-pane active" id="alpha">
+      <h3>UX Design</h3>
+      {% for ux_resources in site.ux_resources %}
+      {% if ux_resources.category == 'ux_design' %}
+      <h4>{{ ux_resources.title }}</h4>
+      <p>{{ ux_resources.content | strip_html | truncatewords: 30, '...' }}</p>
+      <a href="{{ ux_resources.source }}" target="_blank">Source</a>
+      {% endif %}
+      {% endfor %}
+
+      <h3>User Research</h3>
+      {% for ux_resources in site.ux_resources %}
+      {% if ux_resources.category == 'user_research' %}
+      <h4>{{ ux_resources.title }}</h4>
+      <p>{{ ux_resources.content | strip_html | truncatewords: 30, '...' }}</p>
+      <a href="{{ ux_resources.source }}" target="_blank">Source</a>
+      {% endif %}
+      {% endfor %}
+
+      <h3>Prototyping</h3>
+      {% for ux_resources in site.ux_resources %}
+      {% if ux_resources.category == 'prototyping' %}
+      <h4>{{ ux_resources.title }}</h4>
+      <p>{{ ux_resources.content | strip_html | truncatewords: 30, '...' }}</p>
+      <a href="{{ ux_resources.source }}" target="_blank">Source</a>
+      {% endif %}
+      {% endfor %}
+      </div>
+      <div class="tab-pane" id="category">
+        <p>Coming Soon!</p>
+      </div>
+    </div>
+  </div>
+</div>
