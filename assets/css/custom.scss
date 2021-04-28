@@ -2,7 +2,7 @@
 ---
 .page-header {
   background-color: transparent;
-  background-image: url(assets/images/ux_ui.jpg);
+  background-image: url({{ '/assets/images/ux_ui.jpg' | relative_url }});
   background-size: cover;
   background-position: center center;
 }
