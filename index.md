@@ -41,7 +41,7 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 
 <h3>Prototyping</h3>
 {% for ux_resources in site.ux_resources %}
-{% if ux_resources.category == 'prototyping' %}
+{% if ux_resources.category == 'ux_design' %}
 <h4>{{ ux_resources.title }}</h4>
 <p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
 <a href="{{ ux_resources.source }}" target="_blank">Source</a>
