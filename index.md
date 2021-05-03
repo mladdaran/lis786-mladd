@@ -21,5 +21,31 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 ## **Explore UX**
 <p>Browse the topics below:</p>
 
+<h3>User Research</h3>
+{% for ux_resources in site.ux_resources %}
+{% if ux_resources.category == 'user_basics' %}
+<h4>{{ ux_resources.title }}</h4>
+<p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+<a href="{{ ux_resources.source }}" target="_blank">Source</a>
+{% endif %}
+{% endfor %}
+
+<h3>User Research</h3>
+{% for ux_resources in site.ux_resources %}
+{% if ux_resources.category == 'user_research' %}
+<h4>{{ ux_resources.title }}</h4>
+<p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+<a href="{{ ux_resources.source }}" target="_blank">Source</a>
+{% endif %}
+{% endfor %}
+
+<h3>Prototyping</h3>
+{% for ux_resources in site.ux_resources %}
+{% if ux_resources.category == 'prototyping' %}
+<h4>{{ ux_resources.title }}</h4>
+<p>{{ ux_resources.content | strip_html | truncate: 600, '...' }}</p>
+<a href="{{ ux_resources.source }}" target="_blank">Source</a>
+{% endif %}
+{% endfor %}
 
 ### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
