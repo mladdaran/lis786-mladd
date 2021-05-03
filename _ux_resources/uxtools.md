@@ -1,6 +1,6 @@
 ---
 title: UX Tools
-source: https://www.youtube.com/watch?v=SRec90j6lTY
+source: https://careerfoundry.com/en/blog/ux-design/essential-tools-for-ux-designers-a-beginners-guide/
 category: ux_tools
 ---
-**Iterating is a really important part in the UX design process and in any design process in general.** There are many UX tools that exist out there from collaborative platforms to software to create and design interfaces.
+**There are many UX tools that exist out there!** From prototyping software to collaborative platforms, everyone has their own preferences and that is totally OKAY.
