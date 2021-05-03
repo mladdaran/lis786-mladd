@@ -1,6 +1,6 @@
 ---
 title: Usability Testing
-source: https://www.youtube.com/watch?v=A2DdLAxvBiU&t=74s
+source: https://www.nngroup.com/articles/usability-testing-101/
 category: user_research
 ---
-**User experience research is the investigation of your users in order to gather information that will help the design process of a project.** The purpose of usability testing is to
+**Usability testing is one of the many user research methods used by researchers to get some insight on a product.** The main goals in usability testing are identifying problems, uncovering opportunities, and learning about the target users.

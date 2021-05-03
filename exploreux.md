@@ -4,9 +4,8 @@ layout: page
 permalink: /exploreux/
 description: LEARN. SHARE. CONNECT.
 ---
-## **This section will cover the basic UX concepts and I will also share some resources about UX.**
+## **This section will cover UX concepts & tools.**
 
-## **UX Concepts & Resources**
 <h3>Browse the topics below:</h3>
 
 {% for ux_resources in site.ux_resources %}
