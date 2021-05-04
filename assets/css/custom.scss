@@ -1,8 +1,37 @@
 ---
 ---
+
+@minix slight-shadow() {
+  box-shadow: 0 px 0 px 15px rgba(0,0,0,0.08), 0px 0px 4px rgba(0,0,0,0.05)
+}
+
 .page-header {
   background-color: transparent;
   background-image: url({{ '/assets/images/ux_ui.jpg' | relative_url }});
   background-size: cover;
   background-position: center center;
+  height: auto;
+  display: block;
+  h1 a {
+   color: #ffffff;
+   &:hover {
+     color: #f9f9f9;
+     text-decoration: none;
+   }
+ }
+}
+
+nav {
+ display: flex;
+ justify-content: center;
+ max-width: 880px;
+ margin: 0 auto;
+ .bin {
+   background-color: rgba(#150ED8, .75);
+   border-color: #ffffff;
+   color: #ffffff;
+   width: 25%;
+   min-width: 200px;
+   display: inline-block;
+ }
 }
