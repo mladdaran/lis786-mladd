@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 description: LEARN. SHARE. CONNECT.
 ---
-<div class="content-left" markdown="1"?
+<div class="content-left" markdown="1">
 ## **If you want to learn more about me, you've landed on the right page :)**
 
 ### **Monica's Timeline**
@@ -29,5 +29,5 @@ I will be busy this summer taking 2 summer classes at Wilbur Wright, working for
 
 </div>
 <div class="img-right" markdown="1">
-! [Image of Creator of GitHub Website, Monica Laddaran](/assets/images/Monica.jpg)
+![Creator of GitHub Site, Monica Laddaran](/assets/images/Monica.jpg)
 </div>
