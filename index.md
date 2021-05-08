@@ -31,5 +31,11 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
   <a href="{{ ux_resources.source }}" target="_blank">Source</a>
 {% endfor %}
 
+<p>Browse the UX topics down below:</p>
+{% for ux_resources in site.ux_resources %}
+  <div class="ux-teaser clearfix">
+    <div class=img-left teaser-image">
+      <a href="{{ ux_resources.url }}" alt="go to the detail page"
+
 
 ### **<center>Thank you so much for visiting my website, happy exploring!!!</center>**
