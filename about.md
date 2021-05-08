@@ -31,3 +31,4 @@ I will be busy this summer taking 2 summer classes at Wilbur Wright, working for
 <div class="img-right" markdown="1">
 ![Creator of GitHub Site, Monica Laddaran](/assets/images/Monica.jpg)
 </div>
+<div class="clearfix"></div>

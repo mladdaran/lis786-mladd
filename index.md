@@ -3,45 +3,13 @@ title: Welcome to The UX Journey!
 layout: page
 description: LEARN. SHARE. CONNECT.
 ---
-<div class="card card-nav-tabs card-plain">
-  <div class="card-header card-header-danger">
-    <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
-    <div class="nav-tabs-navigation">
-      <div class="nav-tabs-wrapper">
-        <ul class="nav nav-tabs" data-tabs="tabs">
-          <li class="nav-item">
-            <a class="nav-link active show" href="#alpha" data-toggle="tab">Sort alphabetically<div class="ripple-container"></div></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#category" data-toggle="tab">Sort by category<div class="ripple-container"></div></a>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="card-body ">
-    <div class="tab-content text-center">
-      <div class="tab-pane active show" id="alpha">
-        <p>I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. So when you get something that has the name Kanye West on it, it’s supposed to be pushing the furthest possibilities. I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus.</p>
-      </div>
-      <div class="tab-pane" id="category">
-        <p> I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="card-body ">
-  <div class="tab-content text-center">
-    <div class="tab-pane active show" id="alpha">
-      <p>I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. So when you get something that has the name Kanye West on it, it’s supposed to be pushing the furthest possibilities. I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus.</p>
-    </div>
-    <div class="tab-pane" id="category">
-      <p> I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. </p>
-    </div>
-  </div>
-</div>
-
-
 ## **Hello there & welcome to my UX journey!**
+
+{% for ux_resources in site.ux_resources %}
+  <h2>{{ ux_resources.title }}</h2>
+  <p>{{ ux_resources.content }}</p>
+  <a href="{{ ux_resources.source }}" target="_blank"></a>
+{% endfor %}
 
 The purpose of this website is to share my UX journey with you. I discovered the UX world my sophomore year of college, more specifically in the fall semester of the 2019-2020 school year. I took a class called INF 130 - Research and Design for Informatics. One can consider this class an intro class to UX. This class started off with learning concepts & methodologies in UX to producing an mobile app prototype on InVision. My partner & I created an app called Self Wind. We built this app prototype specifically for college students with focus on time management & self care habits. After taking that class, it has been life changing for me as I would love to pursue a career in UX.
 
