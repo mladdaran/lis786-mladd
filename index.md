@@ -28,7 +28,7 @@ Self Wind Mobile App: [Google Drive Folder](https://drive.google.com/drive/folde
 {% for ux_resources in site.ux_resources %}
   <h2>{{ ux_resources.title }}</h2>
   <p>{{ ux_resources.content }}</p>
-  <a href="{{ ux_resources.source }}" target="_blank"></a>
+  <a href="{{ ux_resources.source }}" target="_blank">Source</a>
 {% endfor %}
 
 
